@@ -1,0 +1,286 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.btn {
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
+  align-items: center;
+  position: relative;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.container {
+  background-color: #000000;
+  height: 100vh;
+}
+
+.form2-style {
+  margin: 20px;
+  height: 550px;
+}
+.serach-bar {
+  height: 40px;
+  width: 200px;
+  position: relative;
+  top: -15px;
+  text-align: center;
+  font-size: large;
+  border: none;
+  border-style: none;
+  background-color: #202020;
+  color: white;
+}
+
+.links {
+  text-decoration: none;
+  color: white;
+  font-size: large;
+  padding: 10px;
+  margin: 5px;
+  position: relative;
+  top: -15px;
+}
+
+.img0 {
+  height: 50px;
+  width: 80px;
+  justify-content: center;
+  position: relative;
+  left: -40px;
+}
+
+.img1 {
+  height: 130px;
+  width: 200px;
+}
+
+.h2-text1 {
+  color: white;
+  font-size: 40px;
+}
+
+.sec1 {
+  text-align: center;
+}
+
+.sec2 {
+  color: white;
+  text-align: center;
+}
+
+input {
+  border: none;
+  border-style: none;
+}
+
+.input-text {
+  height: 70px;
+  width: 550px;
+  background-color: #000000;
+  color: white;
+  font-size: xx-large;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  border: none;
+  border-style: none;
+  border-bottom: 1px solid white;
+}
+
+.input2-text {
+  height: 70px;
+  width: 550px;
+  background-color: #000000;
+  color: white;
+  font-size: x-large;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  border: none;
+  border-style: none;
+}
+
+.btn1 {
+  padding: 10px;
+  margin: 5px;
+  height: 70px;
+  width: 550px;
+  font-size: xx-large;
+  background-color: #3c26ff;
+  color: white;
+  display: inline-block;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.main-box {
+  border: none;
+  background-color: #000000;
+  width: 100%;
+}
+
+.h4-text {
+  color: #3c26ff;
+}
+
+.header {
+  position: relative;
+  text-align: center;
+  height: 60px;
+  width: 100%;
+  background-color: #000000;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.footer1 {
+  position: relative;
+  bottom: 0;
+  height: 24vh;
+  width: 100%;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  text-decoration: none;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.footer-text {
+  text-decoration: none;
+  color: #ffffff;
+}
+.sec-1 {
+  padding: 10px;
+  position: relative;
+  left: 15.5%;
+}
+
+.footer-h4 {
+  position: relative;
+  left: 16%;
+  bottom: 0%;
+}
+
+.fbg {
+  height: 150%;
+}
+
+.form-style {
+  position: relative;
+  right: 20%;
+}
+
+.addnews-box {
+  margin: 20px;
+  text-align: center;
+  height: 150%;
+}
+
+.addnews-row {
+  margin: 20px;
+}
+
+.form-style1 {
+  height: 600px;
+  width: 550px;
+  justify-content: center;
+}
+.module-header {
+  display: flex;
+  justify-content: center;
+  font-size: 1.3rem;
+  font-weight: 600;
+  justify-content: space-around;
+  background-color: #3c26ff;
+}
+
+.box-section {
+  width: 64%;
+  position: relative;
+  left: 17.5%;
+}
+
+.block:hover {
+  position: relative;
+  height: 350px;
+  box-shadow: 0 5px 15px rgb(255, 0, 0);
+}
+
+.block-img {
+  height: 350px;
+  width: 1100px;
+}
+
+.block1-img {
+  height: 160px;
+  width: 260px;
+}
+
+.block3-img {
+  height: 180px;
+  width: 350px;
+}
+
+.block1:hover {
+  position: relative;
+  height: 160px;
+  box-shadow: 0 5px 15px rgb(255, 0, 0);
+}
+
+.block2:hover {
+  position: relative;
+  height: 160px;
+  box-shadow: 0 5px 15px rgb(255, 0, 0);
+}
+
+.block3:hover {
+  position: relative;
+  height: 180px;
+  box-shadow: 0 5px 15px rgb(255, 0, 0);
+}
+
+.h2-text {
+  margin: 20px;
+  font-size: 1.3rem;
+  font-weight: 600;
+  position: relative;
+  left: 16.5%;
+}
+
+.footer-container {
+  margin: 20px;
+  display: flex;
+  position: relative;
+  left: 5%;
+  list-style: none;
+  align-items: center;
+  justify-content: space-between;
+  text-decoration: none;
+  color: white;
+}
+
+.box-style3 {
+  width: 1250px;
+  position: relative;
+  left: 12%;
+}
+
+.box4-style {
+  height: 450px;
+}
+
+.hr-style {
+  width: 1220px;
+  position: relative;
+  left: 16%;
+}
+
+.trans {
+  position: relative;
+  left: 70%;
+}
